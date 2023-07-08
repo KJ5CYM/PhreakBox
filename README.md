@@ -1,4 +1,13 @@
 # PhreakBox
 An all-in-one phone phreaker tonez player written in C++ for Windows XP/7
 ![screenshot of app interface](https://github.com/elr0b0h0b0/PhreakBox/blob/main/screenshot.png "UI")
- 
+
+# What does it do?
+PhreakBox is a Windows XP user interface for playing DTMF, BlueBox, and RedBox phreaker tones. The most important feature is the speed dial function. To speed dial DTMF or MF, simply enter the number you wish to dial and press Dial! For MF speed dialing the KP and ST tones are played automagically! Make sure to keep the .wav files in the executable's directory. Hack the planet!
+
+# Why???
+I had collected quite the sampling of .wav sound files from the old phreaker boxes during my experimentation with Project MF, which is a payphone simulator. 
+https://projectmf.org
+I needed a quick way to play them out loud into Project MF's simulated payphone trunk, so PhreakBox was born one lazy Sunday!
+
+
