@@ -1,0 +1,4 @@
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "PhreakBox.ico"
+
+BALLBMP BITMAP "./assets/ball.bmp"
+MASKBMP BITMAP "./assets/ballmask.bmp"
