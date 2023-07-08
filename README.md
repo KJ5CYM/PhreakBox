@@ -10,4 +10,4 @@ I had collected quite the sampling of .wav sound files from the old phreaker box
 https://projectmf.org
 I needed a quick way to play them out loud into Project MF's simulated payphone trunk, so PhreakBox was born one lazy Sunday!
 
-
+shoutz to dr0ptpacket, 0ctothorpe, and the guys @ PLA! Enjoy the soft you phreaks!
