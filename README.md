@@ -14,3 +14,5 @@ I needed a quick way to play them out loud into Project MF's simulated payphone 
 I used the Bloodshed Dev-C++ IDE for the programming. Gross.
 
 shoutz to dr0ptpacket, 0ctothorpe, and the guys @ PLA! Enjoy the soft you phreaks!
+
+![wikipedia screenshot](https://github.com/elr0b0h0b0/PhreakBox/blob/main/phreakipedia.jpg "phreakipedia")
