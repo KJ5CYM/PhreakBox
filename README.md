@@ -1,5 +1,5 @@
 # PhreakBox v1.3
-An all-in-one phone phreaker tonez player written in C++ for Windows. 
+An all-in-one phone phreaker tonez player written in C++ for Windows
 ![screenshot of app interface](https://github.com/elr0b0h0b0/PhreakBox/blob/main/demo.gif "UI")
 
 # What does it do?
