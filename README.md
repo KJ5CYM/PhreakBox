@@ -11,7 +11,7 @@ https://projectmf.org
 I needed a quick way to play the sounds out loud for Project MF, so PhreakBox was born!
 
 
-I used the Bloodshed Dev-C++ IDE for the programming. Gross. I do not recommend.
+I used the Bloodshed Dev-C++ IDE on Windows XP for the programming. This specific IDE does not work well on Windows 10.
 
 shoutz to dr0ptpacket, 0ctothorpe, and the guys @ PLA! Enjoy the soft you phreaks!
 
